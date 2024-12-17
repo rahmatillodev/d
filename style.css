@@ -11,3 +11,14 @@ header {
     height: calc(100vh - 80px);
     background: green;
 }
+.about {
+    display: flex;
+}
+.left {
+    width: 50%;
+    height: 100vh;
+}
+.right {
+    width: 50%;
+    height: 100vh;
+}
