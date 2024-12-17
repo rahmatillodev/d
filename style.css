@@ -7,3 +7,7 @@ nav {
     height: 80px;
     background: orange;
 }
+header {
+    height: calc(100vh - 80px);
+    background: green;
+}
